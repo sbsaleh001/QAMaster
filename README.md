@@ -7,7 +7,7 @@ This project creates a Q/A chat box using multiple pre-trained models. It fine-t
 - QWEn-1.5.72B (Local)
 - Scientific Research (Local)
 - gpt2
-- bert-large-uncased-whole-word-masking-finetuned-squad
+- BERT for QuestionAnswering
 - deepset/roberta-base-squad2
 
 ## Steps
